@@ -106,5 +106,6 @@ Tarefa não encontrada (`404 Not Found`):
 
 ## Autor
 
-**Pedro com auxilio do uso de IA
+Pedro com auxilio do uso de IA
+
 www.linkedin.com/in/phsa
