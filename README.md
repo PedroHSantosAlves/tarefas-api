@@ -106,5 +106,5 @@ Tarefa não encontrada (`404 Not Found`):
 
 ## Autor
 
-**Pedro [Sobrenome]**
-[LinkedIn](https://linkedin.com/in/[seu-perfil]) · [GitHub](https://github.com/[seu-usuario])
+**Pedro com auxilio do uso de IA
+www.linkedin.com/in/phsa
